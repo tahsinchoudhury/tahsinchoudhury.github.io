@@ -21,7 +21,7 @@ Recent News
 Recent Publications
 ======
 {% include base_path %}
-{% for post in site.publications reversed limit:3 %}
+{% for post in site.publications limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
 
