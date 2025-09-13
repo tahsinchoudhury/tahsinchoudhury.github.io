@@ -13,7 +13,7 @@ Feel free to reach out if you have any questions or want to discuss my work!
 
 Recent News
 ======
-- **September 2025**: Co-first author on a paper accepted in the System Demonstrations track of EMNLP 2025.
+- **September 2025**: Co-first author on a paper accepted at **EMNLP 2025 System Demonstrations**.
 - **July 2024**: Started a remote internship at **Mass Holdings Inc., Tokyo, Japan**.
 - **May 2024**: Runner-up at **Code Samurai 2024**.
 - **October 2023**: Champion at **Battle of Brains**.
