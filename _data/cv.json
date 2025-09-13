@@ -4,12 +4,12 @@
     "email": "tahsinbd247@gmail.com",
     "phone": "",
     "website": "https://tahsinchoudhury.github.io",
-    "summary": "Currently a student at the University of Dhaka",
+    "summary": "A final year Computer Science and Engineering undergraduate at the University of Dhaka",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Dhaka",
+      "countryCode": "Sylhet",
       "region": ""
     },
     "profiles": [
@@ -33,29 +33,11 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Dhaka",
+      "area": "Computer Science and Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2022",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     }

@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * BSc in Computer Science and Engineering, University of Dhaka, 2022–Present
-  * CGPA: 3.97/4.00 (till third year, first semester)
-  * Class Rank: 1 (till third year, first semester)
+  * CGPA: 3.97/4.00 (till third year)
+  * Class Rank: 1 (till third year)
 
 Work experience
 ======
@@ -32,8 +32,8 @@ Skills
 
 Projects
 ======
-* **Bengali HTR** (February 2025–Present): Trained a state-of-the-art English Handwritten Text Recognition (HTR) model with modifications using synthetic Bengali handwritten images followed by fine-tuning with real handwritten images.
 * **Neural Network** (January 2025): Created a simple neural network from scratch using numpy and pandas.
+* **Locato** (September 2024–November 2024): Developed an Android application using React Native and Spring Boot that enables users to describe issues in natural language. Leveraged large language models (LLMs) to intelligently match users with relevant service providers.
 * **GadgetGrove** (March 2024–May 2024): E-commerce web platform developed using Spring Boot and Next JS as a Software Engineering Lab Project.
 * **CoRide** (September 2023–November 2023): Android app developed in Java that helps motorbike riders reduce travel costs by allowing them to carry passengers on shared routes.
 * **Carrom** (September 2022–November 2022): Desktop Carrom game developed for Linux using C++ with SDL.
@@ -42,12 +42,12 @@ Awards and Achievements
 ======
 * 2024: Runners-up, CODE Samurai (National Hackathon)
 * 2023: 
-  * 26th in NCPC Onsite 2023, National Collegiate Programming Contest, JU
-  * 24th in CUET IUPC 2023, Inter University Programming Contest 2023, CUET
-  * Champion, Battle of Brains, University of Dhaka
+  * 26th out of 196 teams in NCPC Onsite 2023, National Collegiate Programming Contest, JU
+  * 24th out of 96 teams in CUET IUPC 2023, Inter University Programming Contest 2023, CUET
+  * Champion among 100 participants, Battle of Brains, University of Dhaka
 * 2022: Champion (among freshmen), Battle of Brains, University of Dhaka
 * 2020: General Board Scholarship Recipient, HSC
-* 2019: 11th in BDPhO, National Camper, Bangladesh Physics Olympiad
+* 2019: **11th** in BDPhO, National Camper, Bangladesh Physics Olympiad
 * 2018: Talentpool Board Scholarship Recipient, SSC
 * 2015: Talentpool Board Scholarship Recipient, JSC
 
