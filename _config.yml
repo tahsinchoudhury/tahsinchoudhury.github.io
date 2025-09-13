@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Ahmed Nesar Tahsin Choudhury"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Final-year computer science undergraduate passionate about machine learning and deep learning. I enjoy turning ideas into practical applications while exploring the theory behind modern AI."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Dhaka"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tahsinbd247@gmail.com" 
 
   # Academic websites
   academia         : # URL
