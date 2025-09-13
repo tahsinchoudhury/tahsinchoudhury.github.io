@@ -1,38 +1,22 @@
 ---
 permalink: /
-title: "Welcome to My Academic Homepage"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a third-year undergraduate student in Computer Science with a strong interest in machine learning and deep learning research. My academic journey has been guided by curiosity for both the theoretical foundations of computing and the practical challenges of building systems that learn from data. I am especially motivated to bridge the gap between foundational algorithms and their real-world applications, with a long-term goal of pursuing doctoral research in machine learning.  
+I am a final-year undergraduate student in Computer Science and Engineering at the University of Dhaka, where my supervisor is Dr. Md Mosaddek Khan. I have a strong interest in deep learning research, and I have recently published at EMNLP 2025 System Demonstrations. Previously, I spent a significant amount of time in competitive programming, which helped sharpen my problem-solving skills and strengthen my algorithmic thinking.
 
-Academic Background
-======
-I am currently pursuing a Bachelor of Science in Computer Science, where I have focused my coursework on algorithms, systems programming, and applied mathematics. Alongside these core subjects, I have explored specialized courses and independent projects in artificial intelligence, natural language processing, and computer vision.  
-
-Over the course of my degree, I have gained hands-on experience in designing full-stack applications, experimenting with embedded systems, and implementing deep learning architectures. This blend of theory and practice has shaped my perspective on research as both a scientific and an engineering pursuit.  
-
-Research Interests
-======
-My primary academic interests lie in machine learning, with a focus on understanding and improving model architectures, training dynamics, and representation learning. I am particularly fascinated by the way tokenization and representation choices influence the performance of language and vision models.  
-
-Beyond machine learning, I also have strong interests in systems design and optimization, which inform how I think about deploying scalable and efficient learning systems.  
-
-Future Goals
-======
-I am preparing for graduate study, aiming to pursue a Ph.D. in machine learning or deep learning. My immediate goals are to deepen my mathematical and research background, collaborate with peers and mentors on impactful projects, and contribute to the broader academic community through publications and open-source work.  
+Feel free to reach out if you have any questions or want to discuss my work! 
 
 Recent News
 ======
 - **September 2025**: Co-first author on a paper accepted in the System Demonstrations track of EMNLP 2025.
-
-For more info
-------
-This site will serve as a hub for my academic journey, including publications, talks, projects, and teaching experiences. Updates will be added as I continue developing my research profile.  
-
+- **July 2024**: Started a remote internship at **Mass Holdings Inc., Tokyo, Japan**.
+- **May 2024**: Runner-up at **Code Samurai 2024**.
+- **October 2023**: Champion at **Battle of Brains**.
 
 <!-- ---
 permalink: /
