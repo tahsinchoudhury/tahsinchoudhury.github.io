@@ -13,7 +13,7 @@ Education
 ======
 * BSc in Computer Science and Engineering, University of Dhaka, 2022–Present
   * CGPA: 3.97/4.00 (till third year)
-  * Class Rank: 1 (till third year)
+  * Class Rank: 1 out of 65 (till third year)
 
 Work experience
 ======
@@ -54,9 +54,9 @@ Awards and Achievements
 References
 ======
 * **Dr. Md Mosaddek Khan**
-  Associate Professor
-  Computer Science and Engineering
-  University of Dhaka
+  Associate Professor  
+  Computer Science and Engineering  
+  University of Dhaka  
   mosaddek@du.ac.bd
 
 Publications
@@ -65,7 +65,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -75,7 +75,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Extracurricular Activities
 ======
