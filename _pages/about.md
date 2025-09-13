@@ -33,7 +33,7 @@ Recent Publications
 
 Published in *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2025
 
-This paper presents an open-source, state-of-the-art Bengali Handwritten Text Recognition system utilizing decoder-only transformer and grapheme-based tokenizer.
+This paper presents an open-source, state-of-the-art Bengali Handwritten Text Recognition system utilizing decoder-only transformer and grapheme-based tokenizer
 
 <!-- ---
 permalink: /
