@@ -23,7 +23,7 @@ repository               : "tahsinchoudhury/tahsinchoudhury.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpg"
+  avatar           : "profile_photo.png"
   name             : "Ahmed Nesar Tahsin Choudhury"
   pronouns         : "He/Him"  
   bio              : "Final-year computer science undergraduate passionate about machine learning and deep learning"
