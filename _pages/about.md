@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate student in Computer Science and Engineering at the University of Dhaka, where my supervisor is Dr. Md Mosaddek Khan. I have a strong interest in deep learning research, and I have recently published at EMNLP 2025 System Demonstrations. Previously, I spent a significant amount of time in competitive programming, which helped sharpen my problem-solving skills and strengthen my algorithmic thinking.
+I am a final-year undergraduate student in Computer Science and Engineering at the University of Dhaka, where I am lucky to have Dr. Md Mosaddek Khan as my supervisor. I have a strong interest in deep learning research, and I have recently published at EMNLP 2025 System Demonstrations. Previously, I spent a significant amount of time in competitive programming, which helped sharpen my problem-solving skills and strengthen my algorithmic thinking.
 
 Feel free to reach out if you have any questions or want to discuss my work! 
 
