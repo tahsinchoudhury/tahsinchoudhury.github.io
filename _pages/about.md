@@ -18,6 +18,13 @@ Recent News
 - **May 2024**: Runner-up at **Code Samurai 2024**.
 - **October 2023**: Champion at **Battle of Brains**.
 
+Recent Publications
+======
+{% include base_path %}
+{% for post in site.publications reversed limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <!-- ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
