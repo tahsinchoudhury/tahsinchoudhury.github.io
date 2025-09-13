@@ -20,10 +20,15 @@ Recent News
 
 Recent Publications
 ======
-{% include base_path %}
+*GraDeT-HTR: A Bengali Handwritten Text Recognition System utilizing Grapheme-based Tokenizer and Decoder-only Transformer*
+
+Published in *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2025
+
+This paper presents an open-source, state-of-the-art Bengali Handwritten Text Recognition system utilizing decoder-only transformer and grapheme-based tokenizer
+<!-- {% include base_path %}
 {% for post in site.publications limit:3 %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- ---
 permalink: /
