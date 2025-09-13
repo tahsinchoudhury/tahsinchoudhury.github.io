@@ -53,7 +53,7 @@ Awards and Achievements
 
 References
 ======
-* **Dr. Md Mosaddek Khan**
+* **Dr. Md Mosaddek Khan**  
   Associate Professor  
   Computer Science and Engineering  
   University of Dhaka  
