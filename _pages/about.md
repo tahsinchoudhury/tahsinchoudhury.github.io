@@ -14,10 +14,10 @@ Feel free to reach out if you have any questions or want to discuss my work!
 Academics
 ======
 - **B.Sc. in Computer Science and Engineering** (2022–2026, expected)  
-  University of Dhaka, Bangladesh  
-  Relevant coursework: Machine Learning, Artificial Intelligence, Introduction to Probability and Statistics, Design and Analysis of Algorithms, Data Structures and Algorithms  
-  Current CGPA: 3.97/4.00  
-  Class Rank: 1 out of 65
+  *University of Dhaka, Bangladesh*  
+  R**elevant coursework:** Machine Learning, Artificial Intelligence, Introduction to Probability and Statistics, Design and Analysis of Algorithms, Data Structures and Algorithms  
+  **Current CGPA:** 3.97/4.00  
+  **Class Rank:** **1** out of 65
 
 Recent News
 ======
