@@ -13,6 +13,8 @@ Feel free to reach out if you have any questions or want to discuss my work!
 
 Academics
 ======
+---
+
 - **B.Sc. in Computer Science and Engineering** (2022–2026, expected)  
   *University of Dhaka, Bangladesh*  
   **Relevant coursework:** Machine Learning, Artificial Intelligence, Mathematical and Statistical Analysis for Engineers, Introduction to Probability and Statistics, Design and Analysis of Algorithms, Data Structures and Algorithms  
