@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate student in Computer Science and Engineering at the University of Dhaka, where I am lucky to have [Dr. Md Mosaddek Khan](https://scholar.google.com/citations?user=WCMwBe4AAAAJ&hl=en) as my supervisor. I have a strong interest in deep learning research, and I have recently published at *EMNLP 2025 System Demonstrations*. Previously, I spent a significant amount of time in competitive programming, which helped sharpen my problem-solving skills and strengthen my algorithmic thinking.
+This is Tahsin, and I am a final-year undergraduate student in Computer Science and Engineering at the University of Dhaka, where I am lucky to have [Dr. Md Mosaddek Khan](https://scholar.google.com/citations?user=WCMwBe4AAAAJ&hl=en) as my supervisor. I have a strong interest in deep learning research, and I have recently published at *EMNLP 2025 System Demonstrations*. Previously, I spent a significant amount of time in competitive programming, which helped sharpen my problem-solving skills and strengthen my algorithmic thinking.
 
 Feel free to reach out if you have any questions or want to discuss my work! 
 
@@ -23,14 +23,16 @@ Academics
 
 Recent News
 ======
+---
 - **September 2025**: Co-first author on a paper accepted at **EMNLP 2025 System Demonstrations**.
 - **April 2025**: Visited *Mass Holdings Inc.*'s office in **Tokyo, Japan** for hands-on experience as part of the remote internship.
 - **July 2024**: Started a remote internship at **Mass Holdings Inc., Tokyo, Japan**.
-- **May 2024**: Runner-up at **Code Samurai 2024**.
-- **October 2023**: Champion at **Battle of Brains**.
+- **May 2024**: Runner-up at [**Code Samurai 2024**](https://codesamuraibd.net/), a national hackathon.
+- **October 2023**: Champion at [**Battle of Brains**](https://toph.co/c/cseduic-battle-of-brains-2023/standings), a yearly competitive programming contest among first and second year students of University of Dhaka.
 
 Recent Publications
 ======
+---
 *GraDeT-HTR: A Bengali Handwritten Text Recognition System utilizing Grapheme-based Tokenizer and Decoder-only Transformer*
 
 Published in *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2025
