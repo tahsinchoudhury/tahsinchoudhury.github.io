@@ -14,11 +14,10 @@ Feel free to reach out if you have any questions or want to discuss my work!
 Academics
 ======
 ---
-
 - **B.Sc. in Computer Science and Engineering** (2022–2026, expected)  
   *University of Dhaka, Bangladesh*  
   **Relevant coursework:** Machine Learning, Artificial Intelligence, Mathematical and Statistical Analysis for Engineers, Introduction to Probability and Statistics, Design and Analysis of Algorithms, Data Structures and Algorithms  
-  **Current CGPA:** 3.97/4.00  
+  **Current CGPA:** 3.96/4.00  
   **Class Rank:** **1** out of 65
 
 Recent News
@@ -33,7 +32,7 @@ Recent News
 Recent Publications
 ======
 ---
-*GraDeT-HTR: A Bengali Handwritten Text Recognition System utilizing Grapheme-based Tokenizer and Decoder-only Transformer*
+[*GraDeT-HTR: A Bengali Handwritten Text Recognition System utilizing Grapheme-based Tokenizer and Decoder-only Transformer*](https://aclanthology.org/2025.emnlp-demos.52/)
 
 Published in *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2025
 
