@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Tahsin, and I am a final-year undergraduate student in Computer Science and Engineering at the University of Dhaka, where I am lucky to have [Dr. Md Mosaddek Khan](https://scholar.google.com/citations?user=WCMwBe4AAAAJ&hl=en) as my supervisor. I have a strong interest in deep learning research, and I have recently published at *EMNLP 2025 System Demonstrations*. Previously, I spent a significant amount of time in competitive programming, which helped sharpen my problem-solving skills and strengthen my algorithmic thinking.
+This is Tahsin, and I am a final-year undergraduate student in Computer Science and Engineering at the University of Dhaka, where I am lucky to have [Dr. Md Mosaddek Khan](https://scholar.google.com/citations?user=IIb6f_4AAAAJ&hl=en) as my supervisor. I have a strong interest in deep learning research, and I have recently published at *EMNLP 2025 System Demonstrations*. Previously, I spent a significant amount of time in competitive programming, which helped sharpen my problem-solving skills and strengthen my algorithmic thinking.
 
 Feel free to reach out if you have any questions or want to discuss my work! 
 
@@ -17,7 +17,7 @@ Academics
 - **B.Sc. in Computer Science and Engineering** (2022–2026, expected)  
   *University of Dhaka, Bangladesh*  
   **Relevant coursework:** Machine Learning, Artificial Intelligence, Mathematical and Statistical Analysis for Engineers, Introduction to Probability and Statistics, Design and Analysis of Algorithms, Data Structures and Algorithms  
-  **Current CGPA:** 3.96/4.00  
+  **Current CGPA:** 3.96/4.00 (till 4-1)
   **Class Rank:** **1** out of 65
 
 Recent News
