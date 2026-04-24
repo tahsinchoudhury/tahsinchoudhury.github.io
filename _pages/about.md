@@ -15,6 +15,8 @@ Currently, I’m looking into whether describing videos at the event level, inst
 
 Previously, I spent a significant amount of time in [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming), which helped sharpen my problem-solving skills and strengthen my algorithmic thinking. Early in university, that often meant long-hours of caffeine-backed debugging and the occasional existential crisis over a failed test case.
 
+During my high-school days, I enjoyed doing physics and participated in [Bangladesh Physics Olympiad (BDPhO)](https://www.bdpho.org/). I was the divisional champion from Sylhet for three consecutive years (2017, 2018, 2019) and was selected as a *national camper* in 2019.
+
 In my spare time, I like playing chess (where my enthusiasm still comfortably outpaces my skill), watching movies (recommendations are always welcome!), and browsing Reddit for longer than I care to admit. I’m also curious about how people learn at a cognitive level and how that knowledge can be used to improve education. My perspective has been (partly) shaped by first-hand exposure to the systemic inefficiencies of Bangladesh’s education system.
 
 <!-- Academics
