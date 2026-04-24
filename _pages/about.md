@@ -7,36 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-This is Tahsin, and I am a final-year undergraduate student in Computer Science and Engineering at the University of Dhaka, where I am lucky to have [Dr. Md Mosaddek Khan](https://scholar.google.com/citations?user=IIb6f_4AAAAJ&hl=en) as my supervisor. I have a strong interest in deep learning research, and I have recently published at *EMNLP 2025 System Demonstrations*. Previously, I spent a significant amount of time in competitive programming, which helped sharpen my problem-solving skills and strengthen my algorithmic thinking.
+This is Tahsin, and I am a final-year undergraduate in Computer Science and Engineering at the University of Dhaka, where I am lucky to have [Dr. Md Mosaddek Khan](https://scholar.google.com/citations?user=IIb6f_4AAAAJ&hl=en) as my supervisor in the [Cognitive Agents and Interactions Lab](https://mmkhansajeeb.com/cailresearchgroup.html). I’m broadly interested in Deep Learning, with particular interest in areas like Natural Language Processing, Computer Vision, Large Language Models, and Multimodal Learning.
 
-Feel free to reach out if you have any questions or want to discuss my work! 
+My undergraduate thesis focused on handwritten text recognition for Bengali, which comes with some interesting challenges because the way the script appears visually does not always match its underlying character sequence. To address this, we built on a GPT-2 based decoder-only architecture and experimented with grapheme-level tokenization as an alternative to subword tokenization methods (like BPE). This approach led to state-of-the-art performance on multiple benchmarks, and our [paper](https://aclanthology.org/2025.emnlp-demos.52/) was later accepted in the *System Demonstrations track* of EMNLP 2025.
 
-Academics
+Currently, I’m looking into whether describing videos at the event level, instead of frame by frame like [LAVAD](https://arxiv.org/abs/2404.01014), can help models better understand video anomalies. The idea is that many anomalies are not obvious from one snapshot; they only start to make sense once you see the bigger story.
+
+Previously, I spent a significant amount of time in [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming), which helped sharpen my problem-solving skills and strengthen my algorithmic thinking. Early in university, that often meant long-hours of caffeine-backed debugging and the occasional existential crisis over a failed test case.
+
+In my spare time, I like playing chess (where my enthusiasm still comfortably outpaces my skill), watching movies (recommendations are always welcome!), and browsing Reddit for longer than I care to admit. I’m also curious about how people learn at a cognitive level and how that knowledge can be used to improve education. Having studied within Bangladesh’s education system, I’ve become interested in how we can make learning more effective, less rigid, and grounded in how students actually think.
+
+<!-- Academics
 ======
 ---
 - **B.Sc. in Computer Science and Engineering** (2022–2026, expected)  
   *University of Dhaka, Bangladesh*  
   **Relevant coursework:** Machine Learning, Artificial Intelligence, Mathematical and Statistical Analysis for Engineers, Introduction to Probability and Statistics, Design and Analysis of Algorithms, Data Structures and Algorithms  
-  **Current CGPA:** 3.96/4.00 (till 4-1)
-  **Class Rank:** **1** out of 65
+  **Current CGPA:** 3.96/4.00 (till 4-1)  
+  **Class Rank:** **1** out of 65 -->
 
 Recent News
 ======
 ---
-- **September 2025**: Co-first author on a paper accepted at **EMNLP 2025 System Demonstrations**.
+- **September 2025**: [GraDeT-HTR](https://aclanthology.org/2025.emnlp-demos.52/) has been accepted at **EMNLP 2025 System Demonstrations**! We presented a state-of-the-art Bengali HTR system in this paper.
 - **April 2025**: Visited *Mass Holdings Inc.*'s office in **Tokyo, Japan** for hands-on experience as part of the remote internship.
 - **July 2024**: Started a remote internship at **Mass Holdings Inc., Tokyo, Japan**.
 - **May 2024**: Runner-up at [**Code Samurai 2024**](https://codesamuraibd.net/), a national hackathon.
 - **October 2023**: Champion at [**Battle of Brains**](https://toph.co/c/cseduic-battle-of-brains-2023/standings), a yearly competitive programming contest among first and second year students of University of Dhaka.
 
-Recent Publications
+<!-- Recent Publications
 ======
 ---
 [*GraDeT-HTR: A Bengali Handwritten Text Recognition System utilizing Grapheme-based Tokenizer and Decoder-only Transformer*](https://aclanthology.org/2025.emnlp-demos.52/)
 
 Published in *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*, 2025
 
-This paper presents an open-source, state-of-the-art Bengali Handwritten Text Recognition system utilizing decoder-only transformer and grapheme-based tokenizer
+This paper presents an open-source, state-of-the-art Bengali Handwritten Text Recognition system utilizing decoder-only transformer and grapheme-based tokenizer -->
 
 <!-- ---
 permalink: /
