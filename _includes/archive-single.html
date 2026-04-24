@@ -12,8 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+<div class="{{ include.type | default: "list" }}__item{% if post.collection == 'publications' %} publication-list__item{% endif %}">
+  <article class="archive__item{% if post.collection == 'publications' %} publication-card{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title{% if post.collection == 'publications' %} publication-card__title{% endif %}" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -35,11 +35,11 @@
     </h2>
 
     {% if post.authors %}
-      <p><em>{{ post.authors }}</em></p>
+      <p{% if post.collection == 'publications' %} class="publication-card__authors"{% endif %}><em>{{ post.authors }}</em></p>
     {% endif %}
 
     {% if post.author_note %}
-      <p><small>{{ post.author_note }}</small></p>
+      <p{% if post.collection == 'publications' %} class="publication-card__note"{% endif %}><small>{{ post.author_note }}</small></p>
     {% endif %}
     
     {% if post.read_time %}
@@ -49,7 +49,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p class="publication-card__venue">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}

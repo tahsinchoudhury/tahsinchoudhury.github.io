@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is Tahsin, and I am a final-year undergraduate in Computer Science and Engineering at the University of Dhaka, where I am lucky to have [Dr. Md Mosaddek Khan](https://scholar.google.com/citations?user=IIb6f_4AAAAJ&hl=en) as my supervisor in the [Cognitive Agents and Interactions Lab](https://mmkhansajeeb.com/cailresearchgroup.html). I’m broadly interested in Deep Learning, with particular interest in areas like Natural Language Processing, Computer Vision, Large Language Models, and Multimodal Learning.
+This is Tahsin, a final-year undergraduate in Computer Science and Engineering at the University of Dhaka. Academically, I am currently ranked first in my department based on the available results, and I am fortunate to have [Dr. Md Mosaddek Khan](https://scholar.google.com/citations?user=IIb6f_4AAAAJ&hl=en) as my supervisor at the [Cognitive Agents and Interactions Lab](https://mmkhansajeeb.com/cailresearchgroup.html). I’m broadly interested in Deep Learning, with particular interest in areas like Natural Language Processing, Computer Vision, Large Language Models, and Multimodal Learning.
 
-My undergraduate thesis focused on handwritten text recognition for Bengali, which comes with some interesting challenges because the way the script appears visually does not always match its underlying character sequence. To address this, we built on a GPT-2 based decoder-only architecture and experimented with grapheme-level tokenization as an alternative to subword tokenization methods (like BPE). This approach led to state-of-the-art performance on multiple benchmarks, and our [paper](https://aclanthology.org/2025.emnlp-demos.52/) was later accepted in the *System Demonstrations track* of EMNLP 2025.
+My undergraduate thesis focused on handwritten text recognition for Bengali, which comes with some interesting challenges because the way the script appears visually does not always match its underlying character sequence. To address this, we built on a [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) based decoder-only architecture and experimented with grapheme-level tokenization as an alternative to subword tokenization methods (like BPE). This approach led to state-of-the-art performance on multiple benchmarks, and my (co-)first authored [paper](https://aclanthology.org/2025.emnlp-demos.52/) was later accepted in the *System Demonstrations track* of EMNLP 2025.
 
 Currently, I’m looking into whether describing videos at the event level, instead of frame by frame like [LAVAD](https://arxiv.org/abs/2404.01014), can help models better understand video anomalies. The idea is that many anomalies are not obvious from one snapshot; they only start to make sense once you see the bigger story.
 
 Previously, I spent a significant amount of time in [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming), which helped sharpen my problem-solving skills and strengthen my algorithmic thinking. Early in university, that often meant long-hours of caffeine-backed debugging and the occasional existential crisis over a failed test case.
 
-In my spare time, I like playing chess (where my enthusiasm still comfortably outpaces my skill), watching movies (recommendations are always welcome!), and browsing Reddit for longer than I care to admit. I’m also curious about how people learn at a cognitive level and how that knowledge can be used to improve education. Having studied within Bangladesh’s education system, I’ve become interested in how we can make learning more effective, less rigid, and grounded in how students actually think.
+In my spare time, I like playing chess (where my enthusiasm still comfortably outpaces my skill), watching movies (recommendations are always welcome!), and browsing Reddit for longer than I care to admit. I’m also curious about how people learn at a cognitive level and how that knowledge can be used to improve education. My perspective has been (partly) shaped by first-hand exposure to the systemic inefficiencies of Bangladesh’s education system.
 
 <!-- Academics
 ======
@@ -29,9 +29,10 @@ In my spare time, I like playing chess (where my enthusiasm still comfortably ou
 Recent News
 ======
 ---
+- **March 2026**: Joined [Therap](https://www.therapservices.net/) as an *Associate Machine Learning Engineer*! 
 - **September 2025**: [GraDeT-HTR](https://aclanthology.org/2025.emnlp-demos.52/) has been accepted at **EMNLP 2025 System Demonstrations**! We presented a state-of-the-art Bengali HTR system in this paper.
-- **April 2025**: Visited *Mass Holdings Inc.*'s office in **Tokyo, Japan** for hands-on experience as part of the remote internship.
-- **July 2024**: Started a remote internship at **Mass Holdings Inc., Tokyo, Japan**.
+- **April 2025**: Visited *Mass Holdings Inc.*'s office in **Tokyo, Japan** for hands-on experience as part of an internship.
+- **July 2024**: Started a remote internship at [**Mass Holdings Inc., Tokyo, Japan**](https://www.mass-hd.com/).
 - **May 2024**: Runner-up at [**Code Samurai 2024**](https://codesamuraibd.net/), a national hackathon.
 - **October 2023**: Champion at [**Battle of Brains**](https://toph.co/c/cseduic-battle-of-brains-2023/standings), a yearly competitive programming contest among first and second year students of University of Dhaka.
 
