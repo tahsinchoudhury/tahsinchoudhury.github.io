@@ -17,7 +17,7 @@ Previously, I spent a significant amount of time in [competitive programming](ht
 
 During my high-school days, I enjoyed doing physics and participated in [Bangladesh Physics Olympiad (BDPhO)](https://www.bdpho.org/). I was the divisional champion from Sylhet for three consecutive years (2017, 2018, 2019) and was selected as a *national camper* in 2019.
 
-In my spare time, I like playing chess (where my enthusiasm still comfortably outpaces my skill), watching movies (recommendations are always welcome!), and browsing Reddit for longer than I care to admit. I’m also curious about how people learn at a cognitive level and how that knowledge can be used to improve education. My perspective has been (partly) shaped by first-hand exposure to the systemic inefficiencies of Bangladesh’s education system.
+Beyond research, I’m also curious about how people learn at a cognitive level and how that knowledge can be used to improve education. My perspective has been (partly) shaped by first-hand exposure to the systemic inefficiencies of Bangladesh’s education system. In my spare time, I like playing chess (where my enthusiasm still comfortably outpaces my skill), watching movies (recommendations are always welcome!), and browsing Reddit for longer than I care to admit.
 
 <!-- Academics
 ======
@@ -32,7 +32,7 @@ Recent News
 ======
 ---
 - **March 2026**: Joined [Therap](https://www.therapservices.net/) as an *Associate Machine Learning Engineer*! 
-- **September 2025**: [GraDeT-HTR](https://aclanthology.org/2025.emnlp-demos.52/) has been accepted at **EMNLP 2025 System Demonstrations**! We presented a state-of-the-art Bengali HTR system in this paper.
+- **September 2025**: [GraDeT-HTR](https://aclanthology.org/2025.emnlp-demos.52/) has been accepted at **EMNLP 2025 System Demonstrations**! The resources are available here: [Training Code](https://github.com/mahmudulyeamim/GraDeT-HTR/), [Synthetic Data Generation Code](https://github.com/tahsinchoudhury/GlyphScribe), [Demo](https://cognistorm.ai/hcr), and [Video Presentation](https://www.youtube.com/watch?v=mYaGjGujTn0).
 - **April 2025**: Visited *Mass Holdings Inc.*'s office in **Tokyo, Japan** for hands-on experience as part of an internship.
 - **July 2024**: Started a remote internship at [**Mass Holdings Inc., Tokyo, Japan**](https://www.mass-hd.com/).
 - **May 2024**: Runner-up at [**Code Samurai 2024**](https://codesamuraibd.net/), a national hackathon.
